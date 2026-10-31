@@ -11,3 +11,12 @@ This lab will demonstrate how to design , deploy and enforce Entra ID Conditiona
 * Live enforcement
 * Real sign and testing
 * Log monitoring
+
+  ## Security Objectives
+
+  * Enforce MFA to all users
+  * Reduce attack surface by blocking weak authentication paths
+  * Secure adminisitrative actions by employing PIM
+  * Validate controls using identity telemetry
+  * Simulate SOC style identity verification
+  * Log collection and analysis
