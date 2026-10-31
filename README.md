@@ -28,3 +28,9 @@ This lab will demonstrate how to design , deploy and enforce Entra ID Conditiona
 - Standard User
 - Break Glass admin
 - MFA
+
+### Step 1 - Enforce PIM to the admin account
+
+1. Open PIM ( Microsoft Entra ID --> Privileged Identity Management --> My Roles)
+2. Search Global Administrator
+3. 
