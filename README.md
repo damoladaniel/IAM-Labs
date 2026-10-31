@@ -1,2 +1,1 @@
-# IAM-Labs
-Getting my hands dirty on IAM Tools
+# Microsoft Entra ID Privileged Identity Management Lab
