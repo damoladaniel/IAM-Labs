@@ -20,3 +20,11 @@ This lab will demonstrate how to design , deploy and enforce Entra ID Conditiona
 * Validate controls using identity telemetry
 * Simulate SOC style identity verification
 * Log collection and analysis
+
+
+## Tools and Environment
+
+- Microsoft Entra ID (P1 or P2)
+- Standard User
+- Break Glass admin
+- MFA
