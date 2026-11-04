@@ -61,4 +61,9 @@ All cloud apps
 
 <img width="1878" height="829" alt="Screenshot 2026-11-03 221155" src="https://github.com/user-attachments/assets/5d36a266-74ec-4e7b-9f62-493f285dcc78" />
 
+Configure Grant control to "Require multi-factor authentication"
+For multiple controls select "Require one of the selected controls"
+Deploy in "Report Only Mode
+click Create
+
 
