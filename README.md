@@ -40,7 +40,7 @@ This lab will demonstrate how to design , deploy and enforce Entra ID Conditiona
 4. Approve MFA
 
    
-6. <img width="1605" height="375" alt="AdminBreak Glass Global Admin Role" src="https://github.com/user-attachments/assets/2e918e9b-e7df-4040-a0dc-0e4d9e53a960" />
+ <img width="1605" height="375" alt="AdminBreak Glass Global Admin Role" src="https://github.com/user-attachments/assets/2e918e9b-e7df-4040-a0dc-0e4d9e53a960" />
 
 ### Step 2 - Create a Condition Access Policy
 
