@@ -98,9 +98,11 @@ Microsoft Entra ID → Monitoring → Sign-in logs
 
 <img width="268" height="666" alt="image" src="https://github.com/user-attachments/assets/33e31700-2be7-4ba3-98ca-6b2086bad4b5" />
 
-
+<br></br>
 
 <img width="2519" height="856" alt="image" src="https://github.com/user-attachments/assets/9ff4adc2-5aa3-4c38-9548-8c17c936e7c7" />
+
+<br></br>
 
 <img width="817" height="319" alt="image" src="https://github.com/user-attachments/assets/2528b774-abdc-44fe-b3e4-88113644d499" />
 
