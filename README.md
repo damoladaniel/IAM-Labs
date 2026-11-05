@@ -67,6 +67,36 @@ Path: Microsoft Entra ID → Protection → Conditional Access → Policies
   <br> </br>
 <img width="1878" height="829" alt="Screenshot 2026-11-03 221155" src="https://github.com/user-attachments/assets/5d36a266-74ec-4e7b-9f62-493f285dcc78" />
 
+### Step 3 - Live Sign-In Test
+
+The purpose of the Live sign in test is to confrim that MFA is enforce during real authentication
+
+- Open an incognito Browser window
+- Go to https://portal.azure.com
+- Sign in as Client User
+
+#### What is expected:
+- It should prompt for password
+- Upon sign in, it should ask to change password
+- It should ask to register in Authenticator (If first time user)
+- It should request MA number match
+- If succesful, it should log in
+<br></br>
+
+- <img width="2351" height="952" alt="Screenshot 2026-11-04 144515" src="https://github.com/user-attachments/assets/9edcd8ee-1232-4284-bb17-9c57a9309058" />
+
+<br></br>
+
+<img width="1781" height="726" alt="Screenshot 2026-11-04 144523" src="https://github.com/user-attachments/assets/c0d19293-8762-4065-bf68-5f90124b4df9" />
+
+<br></br>
+<img width="748" height="672" alt="Screenshot 2026-11-04 144538" src="https://github.com/user-attachments/assets/c73ebb65-f0a8-4659-8a9f-b1aa9ba5c854" />
+
+
+### Step 4 - Log Validation
+Microsoft Entra ID → Monitoring → Sign-in logs
+
+<img width="2519" height="856" alt="image" src="https://github.com/user-attachments/assets/9ff4adc2-5aa3-4c38-9548-8c17c936e7c7" />
 
 
 
