@@ -83,7 +83,7 @@ The purpose of the Live sign in test is to confrim that MFA is enforce during re
 - If succesful, it should log in
 <br></br>
 
-- <img width="2351" height="952" alt="Screenshot 2026-11-04 144515" src="https://github.com/user-attachments/assets/9edcd8ee-1232-4284-bb17-9c57a9309058" />
+<img width="2351" height="952" alt="Screenshot 2026-11-04 144515" src="https://github.com/user-attachments/assets/9edcd8ee-1232-4284-bb17-9c57a9309058" />
 
 <br></br>
 
@@ -96,7 +96,12 @@ The purpose of the Live sign in test is to confrim that MFA is enforce during re
 ### Step 4 - Log Validation
 Microsoft Entra ID → Monitoring → Sign-in logs
 
+<img width="268" height="666" alt="image" src="https://github.com/user-attachments/assets/33e31700-2be7-4ba3-98ca-6b2086bad4b5" />
+
+
+
 <img width="2519" height="856" alt="image" src="https://github.com/user-attachments/assets/9ff4adc2-5aa3-4c38-9548-8c17c936e7c7" />
 
+<img width="817" height="319" alt="image" src="https://github.com/user-attachments/assets/2528b774-abdc-44fe-b3e4-88113644d499" />
 
 
